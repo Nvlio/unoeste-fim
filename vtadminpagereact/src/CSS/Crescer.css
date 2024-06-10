@@ -1,0 +1,12 @@
+.element {
+    width: 0px; /* Adjust initial width if needed */
+    height: 0px; /* Adjust initial height if needed */
+    opacity: 1; /* Initial opacity to make it visible */
+    transition: width 1s ease-in-out, height 10s ease-in-out, opacity 0.5s ease-in-out;
+  }
+
+.grow{
+    width: 1404.5px;
+    height: 570px;
+    opacity: 1;
+}
